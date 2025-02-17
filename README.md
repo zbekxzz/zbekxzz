@@ -1,4 +1,4 @@
-<h1>Hi there, I am Bekbolat!</h1>
+<h1>Hi there, I am Bakyt!</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=186CF7&random=false&width=435&lines=Software+engineer+from+Kazakhstan" alt="Typing SVG" /></a>
 
 ### About me:
